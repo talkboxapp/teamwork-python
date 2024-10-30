@@ -1,4 +1,4 @@
-<img src="https://teamwork.app/static/teamwork_logo_word-7f2b02a09653c972fd5a9e80ea6abbf2.svg" alt="Teamwork Logo" width="200"/>
+<img src="https://teamwork.app/static/teamwork_logo_word-7f2b02a09653c972fd5a9e80ea6abbf2.svg" alt="Teamwork Logo" width="400"/>
 
 # Teamwork Python Bot-framework SDK
 
