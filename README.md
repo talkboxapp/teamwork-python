@@ -1,10 +1,8 @@
-![Teamwork Logo](https://teamwork.app/static/teamwork_logo_word-7f2b02a09653c972fd5a9e80ea6abbf2.svg)
+<img src="https://teamwork.app/static/teamwork_logo_word-7f2b02a09653c972fd5a9e80ea6abbf2.svg" alt="Teamwork Logo" width="200"/>
 
 # Teamwork Python Bot-framework SDK
 
 The official [Teamwork](https://teamwork.app) python bot-framework SDK.
-
-## Features
 
 ## Installation
 
@@ -64,4 +62,4 @@ res = await client.message.send("Hello world!", 1001, ReceiverType.USER)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
